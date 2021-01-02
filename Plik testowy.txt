@@ -1,1 +1,2 @@
 Pierwsza linijka pliku testowego
+Druga linijka pliku testowego
