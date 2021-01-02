@@ -3,3 +3,4 @@ dodaje drugi wiersz
 dodaje 3 wiersz
 dodaje 4 wiersz
 tu dodaje 5 wiersz zm astera
+dopisuje 6 wiersz z mastera
